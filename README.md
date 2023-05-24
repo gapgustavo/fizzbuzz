@@ -38,10 +38,7 @@ main.py: The main file that contains the main() function responsible for running
 
 fizzbuzz_functions.py: The file that contains the is_multiple_of_5(), is_multiple_of_7() and fizz_buzz() functions, responsible for checking whether a number is a multiple of 5, 7 or both, and returning the corresponding output according to the FizzBuzz characteristics.
 
-*Contribution
+*Pylint check:
 
-If you want to contribute to this project, feel free to open an issue or submit a pull request. It will be a pleasure to receive contributions to improve the code and make the project more robust.
-
-*License
-
-This project is licensed under the MIT License, which means that you can freely use, modify, distribute and/or market it, as long as you maintain the attribution of credits to the original authors.
+fizzbuzz_functions.py -> 8.33/10
+main.py -> 7.14/10
